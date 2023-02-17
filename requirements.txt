@@ -4,3 +4,5 @@ matplotlib
 seaborn
 scikit-learn
 sweetviz
+urllib3
+pandas_profiling
